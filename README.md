@@ -1,26 +1,33 @@
-# 👋 Hi, I'm Daxho
+# 👋 Hey, I'm Daxho
 
-I'm a web developer focused on **front-end development with React**, continuously learning to become a **full-stack developer** using the **MERN stack**. I’m passionate about building clean, functional, and well-structured interfaces with a strong emphasis on user experience.
-
----
-
-### 🚀 Technologies I work with and currently learning:
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git & GitHub, Figma, VS Code, Vite, Postman
-- **Extras:** TypeScript, Next.js
+I break things to understand how they work. Sometimes I fix them.
 
 ---
 
-### 🎯 What I’m looking for
-I’m seeking opportunities to work on real projects, preferably remote, where I can keep growing as a developer and contribute clear, maintainable code.
+## 🧑‍💻 About me
+
+- Computer Engineer.  
+- Front-end & React focused.  
+- Full-stack MERN learner.  
+- Dark humor included.
 
 ---
 
-### 📫 Get in touch
-If you want to collaborate, hire, or just talk about tech:
+## 🛠 Tech Stack
 
-- 📧 **developer.daxho@gmail.com**  
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frontend:** React, Redux, Sass, Tailwind CSS, CSS3, HTML5
+- **Backend:** Node.js, Express 
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Figma, VS Code
+
 ---
 
-Thanks for stopping by! 🙌
+## 📫 Contact
+
+- ✉️ developer.daxho@gmail.com
+- ✖️ [@daxhoDev](https://x.com/daxhoDev)
+
+---
+
+_No fluff. No hype. Just code._

@@ -13,7 +13,8 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript
+- **Languages:** JavaScript (ES6+)
+![Static Badge](https://img.shields.io/badge/react?style=flat-square&logo=react&logoColor=ffffff&logoSize=auto&label=React&labelColor=555555&color=0000ff)
 - **Frontend:** React, Redux, Sass, Tailwind CSS, CSS3, HTML5, Astro
 - **Backend:** Node.js, Express 
 - **Database:** MongoDB, Mongoose

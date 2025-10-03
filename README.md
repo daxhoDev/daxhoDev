@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Daxho
+<p text-align="center">👋 Hey, I'm Daxho</p>
 
 ---
 

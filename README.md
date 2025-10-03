@@ -1,4 +1,4 @@
-<p text-align="center">👋 Hey, I'm Daxho</p>
+<h1 align="center">👋 Hey, I'm Daxho</h1>
 
 ---
 
